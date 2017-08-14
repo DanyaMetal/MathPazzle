@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+e:\it\exercise\visual studio 2015 c++\mathpazzle\mathpazzle\MyForm.h(437): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MathPazzle.vcxproj -> E:\IT\Exercise\Visual studio 2015 C++\MathPazzle\x64\Debug\MathPazzle.exe
+  MathPazzle.vcxproj -> E:\IT\Exercise\Visual studio 2015 C++\MathPazzle\x64\Debug\MathPazzle.pdb (Full PDB)
